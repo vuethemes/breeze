@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#lighthouse">Lighthouse</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#structure">Structure</a> •
@@ -39,13 +40,18 @@
   <a href="#contributing">Contributing</a>
 </p>
 
-![screenshot](https://github.com/vuethemes/breeze/blob/master/breezeVueThemes.gif)
-
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/breeze">
+  <img width=60% src="https://github.com/vuethemes/breeze/blob/master/breezeVueThemes.gif" alt="Breeze Preview"></a> <br>
+  <br>
+</p>
 
 ## ✅&nbsp; Key Features
 
 * Hot Reload - Make changes, See changes
   - Instantly see what your changes look like in the browser as you create them.
+* 90+ Lighthouse Scores!
 * Easily add/update/modify components and content
 * Built in contact form 
 * Uses Tailwind CSS a highly customizable CSS framework
@@ -59,6 +65,17 @@
   - Get access to the first version today, plus new updates until we're out of ideas.
 * World class support by us! 
   - Reach out any time we are here to help! 
+
+
+## 🏆&nbsp; Lighthouse 
+
+<p align="center">
+  <br>
+    <a href="https://vuethemes.org/theme/breeze">
+     <img width=60% src="https://github.com/vuethemes/breeze/blob/master/breezeLighthouseScreenshot.png" alt="Breeze Lighthouse Score screenshot"></a> <br>
+  <img width=60% src="https://github.com/vuethemes/breeze/blob/master/breezeLighthouse.gif" alt="Breeze Lighthouse Score gif"></a> <br>
+  <br>
+</p>
 
 
 ## 🚀&nbsp; How To Use
