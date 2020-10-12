@@ -83,8 +83,8 @@ To run this application, you'll need to purchase the theme from [Vue Themes](htt
 # Install npm (npm is installed with Node.js)
 $ npm install npm@latest -g
 
-# Install Gridsome CLI tool
-$ npm install -g @gridsome/cli
+# Install Vue CLI tool
+$ npm install -g @vue/cli
 
 # Navigate into the repository
 $ cd breeze-vue-themes
@@ -127,7 +127,7 @@ Feel free to file an [issue](https://github.com/vuethemes/breeze/issues). If you
 
 ## 📘&nbsp; License
 
-You are free to use SaaS for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
+You are free to use Breeze for your personal or client projects. Check out the full license [here](https://coda.io/d/Vue-Themes-License_d8I2oOLBNlz).
 
 ## 💚&nbsp; Contributing & Partnerships
 
