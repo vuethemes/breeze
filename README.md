@@ -106,66 +106,6 @@ $ npm run lint
 
 Here is where you can [download](https://vuethemes.org/theme/breeze) the latest installable version of Breeze.
 
-## 🌲&nbsp; Structure
-
-We've tried our best to develop this theme using a logical component driven structure that is easy to customize. The following section shows the theme files, structure, and plugins.
-
-<pre>
-┣ public/
-┃ ┣ android-chrome-192x192.png
-┃ ┣ android-chrome-512x512.png
-┃ ┣ apple-touch-icon.png
-┃ ┣ favicon-16x16.png
-┃ ┣ favicon-32x32.png
-┃ ┣ favicon.ico
-┃ ┗ index.html
-┣ src/
-┃ ┣ assets/
-┃ ┃ ┣ css/
-┃ ┃ ┃ ┗ style.css
-┃ ┃ ┣ img/
-┃ ┣ components/
-┃ ┃ ┣ common/
-┃ ┃ ┃ ┣ Button.vue
-┃ ┃ ┃ ┣ Cta.vue
-┃ ┃ ┃ ┣ SectionHeading.vue
-┃ ┃ ┃ ┣ SectionSubtitle.vue
-┃ ┃ ┃ ┣ SectionTitle.vue
-┃ ┃ ┃ ┗ Slider.vue
-┃ ┃ ┣ sections/
-┃ ┃ ┃ ┣ About.vue
-┃ ┃ ┃ ┣ Banner.vue
-┃ ┃ ┃ ┣ CallToAction.vue
-┃ ┃ ┃ ┣ Contact.vue
-┃ ┃ ┃ ┣ FooterSection.vue
-┃ ┃ ┃ ┣ HeaderSection.vue
-┃ ┃ ┃ ┣ LatestBlog.vue
-┃ ┃ ┃ ┣ Portfolio.vue
-┃ ┃ ┃ ┣ PricingTable.vue
-┃ ┃ ┃ ┣ Services.vue
-┃ ┃ ┃ ┣ Testimonial.vue
-┃ ┃ ┃ ┗ WhyChooseUs.vue
-┃ ┃ ┣ BannerSingleSlide.vue
-┃ ┃ ┣ FooterCredit.vue
-┃ ┃ ┣ FooterTop.vue
-┃ ┃ ┣ FooterWidget.vue
-┃ ┃ ┣ HeaderBottom.vue
-┃ ┃ ┣ HeaderTop.vue
-┃ ┃ ┣ HelloWorld.vue
-┃ ┃ ┣ Plan.vue
-┃ ┃ ┣ PortfolioSingle.vue
-┃ ┃ ┣ Post.vue
-┃ ┃ ┗ TestimonialSingle.vue
-┃ ┣ App.vue
-┃ ┗ main.js
-┣ .env.example
-┣ README.md
-┣ babel.config.js
-┣ package.json
-┣ postcss.config.js
-┗ tailwind.config.js
-</pre>
-
 ## 👍&nbsp; Credits
 
 This software uses the following open source packages:
