@@ -86,7 +86,7 @@ $ npm install npm@latest -g
 # Install Gridsome CLI tool
 $ npm install -g @gridsome/cli
 
-# Go into the repository
+# Navigate into the repository
 $ cd breeze-vue-themes
 
 # Install dependencies
